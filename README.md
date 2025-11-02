@@ -3,10 +3,10 @@ Team ID : NM2025TMID03763
 
 Team Size : 4
 
-Team Leader : Kamalesh R V
+Team Leader : Logesh S
 
 Team member : Jerwin Y
 
-Team member : Logesh S
+Team member : Kamalesh R V
 
 Team member : Mohamed Haroon S
